@@ -1,21 +1,17 @@
-.ui.borderless.topmenu.menu{
+.menu.borderless.topmenu {
   background-color: #f7f7f7;
   box-shadow: none;
   border: none;
 }
 
-.ui.borderless.centermenu.menu{
-  box-shadow: none;
-  border: none;
-}
-
-.footer-background{
+.bottommenu {
   padding-top: 30px;
   padding-bottom: 30px;
+  padding-left: 80px;
+  border: none;
 }
 
-.ui.labeled.email.input{
-  box-shadow: none;
+.menu.borderless.secondmenu {
   border: none;
-  padding-top: 5px;
+  box-shadow: none;
 }
